@@ -20,3 +20,5 @@ This is the exam repository for Group-24, August 2024.
 
 
 We have also added some of our CSV files as well as the shapefile and GEOJson file we used. 
+
+**Note**: Not all code references the exact location of the data, but all data is available in the 'CSV files' folder.
