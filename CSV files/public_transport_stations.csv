@@ -1,0 +1,1015 @@
+Type,Name,Longitude,Latitude
+Public Transport Stations,Nyborg,10.8035012,55.3138856
+Public Transport Stations,Viby Sjælland,12.0243564,55.5497139
+Public Transport Stations,Rungsted Kyst,12.5315085,55.8824425
+Public Transport Stations,Vedbæk,12.5624471,55.8527265
+Public Transport Stations,Holte,12.4685342,55.8076871
+Public Transport Stations,Rävlanda,12.5004708,57.6543484
+Public Transport Stations,Hjortøboen,10.4918268,54.9666329
+Public Transport Stations,n/a,10.5484980,55.8648686
+Public Transport Stations,Schaprode Passagiere,13.1645049,54.5128526
+Public Transport Stations,Rødovre,12.4591846,55.6648012
+Public Transport Stations,Bispebjerg,12.5414024,55.7062098
+Public Transport Stations,Malmö C,13.0006612,55.6091374
+Public Transport Stations,Charlottenlund,12.5723525,55.7517662
+Public Transport Stations,Bernstorffsvej,12.5578091,55.7428089
+Public Transport Stations,Sorgenfri,12.4835887,55.7812129
+Public Transport Stations,Virum,12.4729758,55.7961547
+Public Transport Stations,Trekroner,12.1319137,55.6478757
+Public Transport Stations,Nyord (Postbåden Røret),12.1935828,55.0396623
+Public Transport Stations,Jægersborg,12.5215091,55.7618855
+Public Transport Stations,Lyngby Lokal,12.5055467,55.7739528
+Public Transport Stations,Fuglevad,12.4973638,55.7849627
+Public Transport Stations,Brede,12.5008220,55.7937250
+Public Transport Stations,Ørholm,12.5097837,55.7997590
+Public Transport Stations,Ravnholm,12.5196228,55.8020557
+Public Transport Stations,Øster Toreby,11.8354471,54.7598004
+Public Transport Stations,Grænge,11.7649882,54.7741229
+Public Transport Stations,Sakskøbing,11.6350782,54.7965382
+Public Transport Stations,Ryde,11.3721324,54.7850772
+Public Transport Stations,Søllested,11.2703089,54.8111016
+Public Transport Stations,Avnede,11.2151514,54.8289954
+Public Transport Stations,Nakskov,11.1381304,54.8334648
+Public Transport Stations,Vejby,12.1363259,56.0625363
+Public Transport Stations,Ørby,12.1626176,56.0556907
+Public Transport Stations,Helsinge,12.2054546,56.0231203
+Public Transport Stations,Duemose,12.2628678,56.0096416
+Public Transport Stations,Kagerup,12.2860904,55.9974247
+Public Transport Stations,Gribsø Trinbræt,12.3022266,55.9872318
+Public Transport Stations,Færgeoverfarten Kulhuse - Sølager,11.9052677,55.9373116
+Public Transport Stations,Færgeoverfarten Sølager - Kulhuse,11.9024431,55.9443855
+Public Transport Stations,Hundested-Rørvig,11.7673738,55.9451997
+Public Transport Stations,Fährhafen Wyk Anleger 1,8.5758425,54.6930679
+Public Transport Stations,MS Adler Express,8.2947043,54.7573642
+Public Transport Stations,Wittower Fähre Nord,13.2475222,54.5578729
+Public Transport Stations,Wittower Fähre Südseite Rügen,13.2449351,54.5547126
+Public Transport Stations,Ølsted,12.0733664,55.9231206
+Public Transport Stations,Hammerum,9.0631533,56.1316708
+Public Transport Stations,Herning Messecenter,8.9445421,56.1237015
+Public Transport Stations,Troldhede,8.7451105,55.9907212
+Public Transport Stations,Bording,9.2786350,56.1467708
+Public Transport Stations,Birk Centerpark,9.0297478,56.1253027
+Public Transport Stations,Kibæk,8.8520030,56.0322903
+Public Transport Stations,Odense Sygehus,10.3666312,55.3814457
+Public Transport Stations,Fruens Bøge,10.3775210,55.3696571
+Public Transport Stations,Hjallese,10.3925876,55.3582232
+Public Transport Stations,Højby,10.4339728,55.3301247
+Public Transport Stations,Årslev,10.4659487,55.3012658
+Public Transport Stations,Pederstrup,10.4860425,55.2833897
+Public Transport Stations,Ringe,10.4818048,55.2388658
+Public Transport Stations,Växjö,14.8050364,56.8765384
+Public Transport Stations,Bor,14.1691755,57.1157565
+Public Transport Stations,Kliplev,9.3977530,54.9351501
+Public Transport Stations,Nørre Alslev,11.8857560,54.8970991
+Public Transport Stations,Holme-Olstrup,11.8489455,55.2611533
+Public Transport Stations,Brønderslev,9.9429985,57.2702469
+Public Transport Stations,Gustav Adolfs torg,12.9992036,55.6024741
+Public Transport Stations,Stillerydshamnen,14.8168148,56.1600311
+Public Transport Stations,Barum,14.3722565,56.1129531
+Public Transport Stations,Vellingshøj,9.9686692,57.4804343
+Public Transport Stations,Skørping,9.8873463,56.8362511
+Public Transport Stations,Hörle,14.0538365,57.2590475
+Public Transport Stations,Støvring,9.8439430,56.8920384
+Public Transport Stations,Skalborg,9.8978555,57.0078981
+Public Transport Stations,Arden,9.8597954,56.7689807
+Public Transport Stations,Gedser Leje 1,11.9267303,54.5737384
+Public Transport Stations,Tolne,10.3132975,57.4859024
+Public Transport Stations,Østre Havn,11.8361319,55.7570367
+Public Transport Stations,Trajekt Schaprode,13.1628320,54.5133566
+Public Transport Stations,Trajekt Vitte,13.1099126,54.5689834
+Public Transport Stations,Sunnaryd,13.7011254,57.0094250
+Public Transport Stations,Bolmsö,13.7175006,57.0067748
+Public Transport Stations,Tisvildeleje,12.0779859,56.0593898
+Public Transport Stations,Holløse,12.1172836,56.0595256
+Public Transport Stations,Svebølle,11.2920852,55.6522903
+Public Transport Stations,Venø Færgen,8.6137962,56.5172608
+Public Transport Stations,Langeneß,8.5482430,54.6179977
+Public Transport Stations,Skjern,8.4921985,55.9473313
+Public Transport Stations,Aulum,8.7881565,56.2652186
+Public Transport Stations,Fredensborg,12.4069464,55.9770346
+Public Transport Stations,Langerød,12.4515485,55.9812303
+Public Transport Stations,Vildbjerg,8.7690938,56.1980169
+Public Transport Stations,Fähranlegestelle Breege,13.3555230,54.6127238
+Public Transport Stations,Sagard Schulstraße,13.5489622,54.5285875
+Public Transport Stations,Vallensbæk,12.3867814,55.6233618
+Public Transport Stations,Brøndby Strand,12.4218624,55.6209884
+Public Transport Stations,Avedøre,12.4555838,55.6256622
+Public Transport Stations,Friheden,12.4836560,55.6294229
+Public Transport Stations,Åmarken,12.4998659,55.6397684
+Public Transport Stations,Sjælør,12.5267123,55.6515213
+Public Transport Stations,Sydhavn,12.5376084,55.6548839
+Public Transport Stations,Hundige,12.3340961,55.5979984
+Public Transport Stations,Ishøj,12.3578947,55.6133790
+Public Transport Stations,Karlslunde,12.2697411,55.5662550
+Public Transport Stations,Solrød Strand,12.2181028,55.5333354
+Public Transport Stations,Jersie,12.2089516,55.5214056
+Public Transport Stations,Køge,12.1864669,55.4579793
+Public Transport Stations,Kloster,13.1123283,54.5844226
+Public Transport Stations,Gørløse,12.2021191,55.8867645
+Public Transport Stations,Brøndby Strand Station,12.4233690,55.6212653
+Public Transport Stations,Rudkøbing busstation,10.7085969,54.9386209
+Public Transport Stations,Fährpersonenanleger Hallig Hooge,8.5572386,54.5785373
+Public Transport Stations,Pellworm,8.7022729,54.5010923
+Public Transport Stations,Nivå,12.5062517,55.9334337
+Public Transport Stations,Greve,12.2966496,55.5816884
+Public Transport Stations,Ribe,8.7702871,55.3276252
+Public Transport Stations,Kalundborg,11.0898869,55.6777772
+Public Transport Stations,Neuendorf,13.0925109,54.5241585
+Public Transport Stations,Struer,8.6017794,56.4915771
+Public Transport Stations,Sörup,9.6701546,54.7165159
+Public Transport Stations,Nässjö C,14.6940474,57.6519690
+Public Transport Stations,Viborg,9.3984137,56.4471382
+Public Transport Stations,Hals,10.3046749,56.9910064
+Public Transport Stations,Egense,10.3029371,56.9860671
+Public Transport Stations,Lyngby Station,12.5036301,55.7686229
+Public Transport Stations,Eke bussterminal,15.0539565,57.0177898
+Public Transport Stations,Sorø,11.5692580,55.4190441
+Public Transport Stations,Næssund Færgen,8.4871510,56.7400620
+Public Transport Stations,Gröde Anleger,8.7097189,54.6326028
+Public Transport Stations,Sjukhuset Borås,12.9621184,57.7235918
+Public Transport Stations,Södervärn,13.0063660,55.5888085
+Public Transport Stations,Vordingborg,11.8992300,55.0118034
+Public Transport Stations,Kristianstad C,14.1523158,56.0309754
+Public Transport Stations,Birkerød,12.4235029,55.8403845
+Public Transport Stations,Kolind,10.5875178,56.3628841
+Public Transport Stations,Hessel,10.8721102,56.3900050
+Public Transport Stations,Klanxbüll,8.6755903,54.8625842
+Public Transport Stations,Marstal Færgehavn,10.5215251,54.8564101
+Public Transport Stations,Keitum,8.3689528,54.8888554
+Public Transport Stations,Christiansø,15.1860027,55.3207393
+Public Transport Stations,Ivö,14.3830946,56.1122457
+Public Transport Stations,Drejø færgehavn,10.4370335,54.9659666
+Public Transport Stations,Sundfarten Helge,10.6350009,55.0589956
+Public Transport Stations,Sankt Olof,14.1334098,55.6354012
+Public Transport Stations,Vitaby,14.1555660,55.6845715
+Public Transport Stations,Vitte Passagiere,13.1078863,54.5681601
+Public Transport Stations,Syltfähre,8.4398008,55.0155299
+Public Transport Stations,Herfølge,12.1370254,55.4177615
+Public Transport Stations,Eskilstrup,11.8853384,54.8560680
+Public Transport Stations,Klippans station,13.1270123,56.1311278
+Public Transport Stations,Fjellenstrup,12.2983736,56.1163997
+Public Transport Stations,Græsted syd,12.2956377,56.0632032
+Public Transport Stations,Store Heddinge,12.3859856,55.3093711
+Public Transport Stations,Tarm,8.5204386,55.9100033
+Public Transport Stations,Hørning,10.0381925,56.0823895
+Public Transport Stations,Snedsted,8.5272962,56.8922846
+Public Transport Stations,Padborg,9.3589629,54.8235559
+Public Transport Stations,Lindome station,12.0784960,57.5757623
+Public Transport Stations,Teglgårdsvej,9.9628548,57.4602346
+Public Transport Stations,Herregårdsparken,9.9658307,57.4732312
+Public Transport Stations,Tunøfærgen,10.2586746,55.9118010
+Public Transport Stations,Molslinjen Odden,11.2996853,55.9745617
+Public Transport Stations,Faxe Ladeplads,12.1619457,55.2169821
+Public Transport Stations,Søby Havn,10.2590448,54.9413768
+Public Transport Stations,Knippelsbro,12.5870225,55.6741811
+Public Transport Stations,Det Kongelige Bibliotek,12.5807101,55.6722332
+Public Transport Stations,Hurtigfærgerne,14.6913238,55.0997692
+Public Transport Stations,Gislaveds bussterminal,13.5432851,57.3046186
+Public Transport Stations,Herlev,12.4435483,55.7188384
+Public Transport Stations,Buddinge,12.4941762,55.7471585
+Public Transport Stations,Blovstrød Hallen,12.3828421,55.8649715
+Public Transport Stations,Oskar Jensens Bro,12.3754988,55.8583852
+Public Transport Stations,Vrist,8.1484001,56.6015949
+Public Transport Stations,Klinkby,8.2196991,56.5654011
+Public Transport Stations,Lemvig,8.3000424,56.5469936
+Public Transport Stations,Victoria Street Station,8.1431155,56.5775419
+Public Transport Stations,Floda,12.3617812,57.8100267
+Public Transport Stations,Hässleholm Centralen,13.7641654,56.1586345
+Public Transport Stations,Nyhavn,12.5943156,55.6791344
+Public Transport Stations,"MF Hammershus, MF Povl Anker",14.6894519,55.0996667
+Public Transport Stations,Nykøbing Sj,11.6733626,55.9217056
+Public Transport Stations,Egøje,12.1900413,55.4243351
+Public Transport Stations,Landskrona Skeppsbron,12.8272056,55.8659162
+Public Transport Stations,Molslinjen Ebeltoft,10.6676079,56.1542272
+Public Transport Stations,Fährhafen Dagebüll Anleger 1,8.6900006,54.7312098
+Public Transport Stations,Fährhafen Dagebüll Anleger 3,8.6903226,54.7303125
+Public Transport Stations,Fährhafen Dagebüll Anleger 2,8.6908055,54.7307068
+Public Transport Stations,Fährhafen Wyk Anleger 2,8.5757743,54.6928410
+Public Transport Stations,Schlüttsiel,8.7539841,54.6816420
+Public Transport Stations,Islev,12.4693860,55.6988768
+Public Transport Stations,Jyllingevej,12.4779237,55.6903652
+Public Transport Stations,Skovlunde,12.4027132,55.7230635
+Public Transport Stations,Måløv,12.3181279,55.7473861
+Public Transport Stations,Frederikssund,12.0661855,55.8349843
+Public Transport Stations,Ølstykke,12.1593166,55.7957669
+Public Transport Stations,Egedal,12.1854997,55.7797855
+Public Transport Stations,Veksø,12.2405908,55.7499170
+Public Transport Stations,Kildedal,12.2864603,55.7519613
+Public Transport Stations,Vesterport,12.5624100,55.6758170
+Public Transport Stations,Dybbølsbro,12.5595897,55.6650983
+Public Transport Stations,Ryparken,12.5596915,55.7154843
+Public Transport Stations,Svanemøllen,12.5788253,55.7155342
+Public Transport Stations,Nordhavn,12.5910118,55.7049718
+Public Transport Stations,Bagsværd,12.4545574,55.7615864
+Public Transport Stations,Stengården,12.4731006,55.7567178
+Public Transport Stations,Vangede,12.5242143,55.7392848
+Public Transport Stations,Kildebakke,12.5079642,55.7446631
+Public Transport Stations,Dyssegård,12.5360326,55.7323761
+Public Transport Stations,Værløse,12.3719152,55.7824512
+Public Transport Stations,Hareskov,12.4079689,55.7652202
+Public Transport Stations,Skovbrynet,12.4337301,55.7651626
+Public Transport Stations,Farum,12.3737085,55.8121053
+Public Transport Stations,Hellerup,12.5669110,55.7305908
+Public Transport Stations,Gentofte,12.5414360,55.7535946
+Public Transport Stations,Frederiksværk,12.0194657,55.9684351
+Public Transport Stations,Næstved Nord,11.7863882,55.2482225
+Public Transport Stations,Nørrebro,12.5378036,55.7006813
+Public Transport Stations,Fuglebakken,12.5266803,55.6953074
+Public Transport Stations,Flintholm,12.4988664,55.6855434
+Public Transport Stations,Grøndal,12.5153054,55.6905327
+Public Transport Stations,Danshøj,12.4937549,55.6643892
+Public Transport Stations,Ålholm,12.4931707,55.6720657
+Public Transport Stations,KB Hallen,12.4923389,55.6778138
+Public Transport Stations,Vigerslev Allé,12.4990504,55.6597688
+Public Transport Stations,Emdrup,12.5410549,55.7207286
+Public Transport Stations,Frölunda Torg,11.9095619,57.6520008
+Public Transport Stations,Randers,10.0212525,56.4617821
+Public Transport Stations,Randers - Busterminal,10.0398597,56.4586256
+Public Transport Stations,Skodsborg,12.5716763,55.8234905
+Public Transport Stations,Helsingborg C,12.6956824,56.0428986
+Public Transport Stations,Glostrup Station,12.3975969,55.6634929
+Public Transport Stations,Varde Vest,8.4759347,55.6244403
+Public Transport Stations,Himmelbjergbådene,9.7535299,56.0930619
+Public Transport Stations,Rødby Færge,11.3548990,54.6549052
+Public Transport Stations,Niebüll,8.8346687,54.7892824
+Public Transport Stations,Westerland (Sylt),8.3130412,54.9059163
+Public Transport Stations,Langenhorn (Schleswig),8.9463734,54.6860086
+Public Transport Stations,Bredstedt,8.9703755,54.6211379
+Public Transport Stations,Ulfborg,8.3251704,56.2717392
+Public Transport Stations,Hjarnø Færgehavn,10.0640767,55.8225670
+Public Transport Stations,Henne,8.3043317,55.7103473
+Public Transport Stations,Älmhults busstation (Stationen),14.1374649,56.5506031
+Public Transport Stations,Nordre Toldbod,12.5996322,55.6881724
+Public Transport Stations,Nödinge,12.0433060,57.8931550
+Public Transport Stations,Färja till Tjärö,15.0727379,56.1814791
+Public Transport Stations,Västra Ingelstad,13.1079497,55.4902567
+Public Transport Stations,Bodafors,14.6947396,57.5060923
+Public Transport Stations,Taulov,9.6156777,55.5448879
+Public Transport Stations,Høng,11.2857780,55.5069459
+Public Transport Stations,Thyborøn Kirke,8.2069903,56.6981955
+Public Transport Stations,Grønnehave,12.6110689,56.0401889
+Public Transport Stations,Hornbæk,12.4597507,56.0891468
+Public Transport Stations,Pårup,12.3013937,56.1007761
+Public Transport Stations,Horneby Sand,12.4353091,56.0899180
+Public Transport Stations,Kildekrog,12.4236891,56.0926327
+Public Transport Stations,Saunte,12.4855689,56.0770008
+Public Transport Stations,Græsted,12.2867797,56.0728918
+Public Transport Stations,Slotspavillonen,12.3111932,55.9425356
+Public Transport Stations,Mårum,12.3172416,56.0306161
+Public Transport Stations,Skibstrup,12.5131402,56.0783894
+Public Transport Stations,Karinebæk,12.4686067,56.0829775
+Public Transport Stations,Grønholt,12.3694427,55.9531826
+Public Transport Stations,Mørdrup,12.5327463,56.0021658
+Public Transport Stations,Saltrup,12.3218282,56.0544090
+Public Transport Stations,Hedehusene,12.1971176,55.6487219
+Public Transport Stations,Lille Skensved,12.1404907,55.5114827
+Public Transport Stations,Ruds Vedby,11.3751861,55.5398975
+Public Transport Stations,Skellebjerg,11.4490950,55.5380698
+Public Transport Stations,Vedde,11.5472374,55.5325286
+Public Transport Stations,Tølløse,11.7732185,55.6119686
+Public Transport Stations,Kirke Eskilstrup,11.7652686,55.5741487
+Public Transport Stations,Store Merløse,11.7110174,55.5450353
+Public Transport Stations,Bagmarken,11.6852970,55.5442784
+Public Transport Stations,Nyrup,11.6525781,55.5423610
+Public Transport Stations,Stenlille,11.5912253,55.5391527
+Public Transport Stations,Lejre,11.9702792,55.6043364
+Public Transport Stations,Vipperød,11.7388715,55.6670078
+Public Transport Stations,Stenhus,11.6872483,55.7153208
+Public Transport Stations,Regstrup,11.6125780,55.6774969
+Public Transport Stations,Mørkøv,11.5021766,55.6545620
+Public Transport Stations,Knabstrup,11.5538862,55.6648959
+Public Transport Stations,Jyderup,11.3982482,55.6602985
+Public Transport Stations,Hørve,11.4563649,55.7526175
+Public Transport Stations,Ny Hagested,11.5943293,55.7287879
+Public Transport Stations,Gislinge,11.5473031,55.7295576
+Public Transport Stations,Svinninge,11.4678504,55.7234244
+Public Transport Stations,Fårevejle,11.4698018,55.7882281
+Public Transport Stations,Asnæs,11.4995742,55.8085770
+Public Transport Stations,Grevinge,11.5513623,55.8030131
+Public Transport Stations,Vig,11.5819286,55.8522077
+Public Transport Stations,Nørre Asmindrup,11.6066198,55.8830623
+Public Transport Stations,Sommerland Sjælland,11.6034977,55.8971898
+Public Transport Stations,Højby Sjælland,11.6036380,55.9105729
+Public Transport Stations,Nyled,11.6555929,55.9219566
+Public Transport Stations,Dianalund,11.4996546,55.5339804
+Public Transport Stations,Kratbjerg,12.3920470,55.9664199
+Public Transport Stations,Snekkersten,12.5831746,56.0093169
+Public Transport Stations,Lille Kregme,12.0342457,55.9465918
+Public Transport Stations,Kregme,12.0465329,55.9349214
+Public Transport Stations,Skævinge,12.1495823,55.9073352
+Public Transport Stations,Brødeskov,12.2795272,55.8935491
+Public Transport Stations,Hanehoved,12.0012103,55.9751010
+Public Transport Stations,Hundested Havn,11.8465877,55.9657624
+Public Transport Stations,Vibehus,11.8730926,55.9602162
+Public Transport Stations,Østerbjerg,11.9136932,55.9767852
+Public Transport Stations,Melby,11.9714130,55.9914330
+Public Transport Stations,Firhøj,12.3564260,56.0982157
+Public Transport Stations,Søborg,12.3338820,56.1005472
+Public Transport Stations,Grimstrup,12.1021686,55.9157100
+Public Transport Stations,København Syd,12.5161910,55.6526314
+Public Transport Stations,Brøndbyøster,12.4410201,55.6650504
+Public Transport Stations,Ålsgårde,12.5383162,56.0750002
+Public Transport Stations,Hellebæk,12.5540236,56.0666162
+Public Transport Stations,Marienlyst,12.6023376,56.0432857
+Public Transport Stations,Helsingør,12.6131788,56.0328850
+Public Transport Stations,Højstrup,12.5932509,56.0480848
+Public Transport Stations,Glostrup,12.3987613,55.6630940
+Public Transport Stations,Hvidovre,12.4750154,55.6644909
+Public Transport Stations,Langgade,12.5040869,55.6673952
+Public Transport Stations,Taastrup,12.3020940,55.6524851
+Public Transport Stations,Albertslund,12.3537736,55.6581188
+Public Transport Stations,Grubberholm,12.2015518,55.3801116
+Public Transport Stations,Himlingøje,12.2155845,55.3724200
+Public Transport Stations,Vallø,12.1920964,55.4001161
+Public Transport Stations,Faxe Syd,12.1369368,55.2421522
+Public Transport Stations,Tokkerup,12.1427304,55.2832781
+Public Transport Stations,Karise,12.1956227,55.3070046
+Public Transport Stations,Lille Linde,12.2192920,55.3365771
+Public Transport Stations,Rødvig,12.3785917,55.2547634
+Public Transport Stations,Varpelev,12.2796920,55.3524557
+Public Transport Stations,Klippinge,12.3257058,55.3459800
+Public Transport Stations,Wittdün Fähranleger,8.3965076,54.6290960
+Public Transport Stations,Peter Bangs Vej,12.5036407,55.6780325
+Public Transport Stations,Ørestad,12.5802183,55.6283839
+Public Transport Stations,Tårnby,12.6015810,55.6297987
+Public Transport Stations,Malmparken,12.3857045,55.7246625
+Public Transport Stations,Horne,9.9725283,57.5593397
+Public Transport Stations,Kvægtorvet,9.9760412,57.4545668
+Public Transport Stations,Skarø Færgeleje,10.4728876,55.0111737
+Public Transport Stations,Orø Havn,11.7996258,55.7552200
+Public Transport Stations,Skærbæk,8.7715973,55.1587111
+Public Transport Stations,Agersø Havn,11.1979678,55.2117735
+Public Transport Stations,Gilleleje Øst,12.3091701,56.1225918
+Public Transport Stations,Stigsnæs Havn,11.2444939,55.2129958
+Public Transport Stations,Bækmarksbro,8.3081330,56.4119465
+Public Transport Stations,Nørre Snede Rutebilstation,9.3933125,55.9661434
+Public Transport Stations,Emmersbæk,9.9775439,57.5720644
+Public Transport Stations,Lilleheden,9.9762793,57.5852735
+Public Transport Stations,Glumsø,11.6963870,55.3523853
+Public Transport Stations,Bonnet,8.2230460,56.5210031
+Public Transport Stations,Hvalpsund-Sundsøre Færgefart,9.1917915,56.7003200
+Public Transport Stations,Espergærde Station,12.5497608,55.9962961
+Public Transport Stations,Outrup,8.3445313,55.7171893
+Public Transport Stations,Grindsted Rutebilstation,8.9315056,55.7589942
+Public Transport Stations,Holte St.,12.4692679,55.8078501
+Public Transport Stations,Lindevang,12.5131859,55.6834487
+Public Transport Stations,Aalestrup Busterminal,9.4955495,56.6950469
+Public Transport Stations,Göteborgs central,11.9730036,57.7091812
+Public Transport Stations,Næstved,11.7670814,55.2311888
+Public Transport Stations,Bjerringbro,9.6584089,56.3741589
+Public Transport Stations,Bollebygd station,12.5705223,57.6678211
+Public Transport Stations,Sorø St.,11.5692900,55.4193618
+Public Transport Stations,Sorø Baadfart,11.5633001,55.4199473
+Public Transport Stations,Vallensbæk Station,12.3885964,55.6231303
+Public Transport Stations,Lancken,13.6079330,54.5180206
+Public Transport Stations,Strande,8.1602768,56.5690639
+Public Transport Stations,Grenå - Anholt,10.9256382,56.4086507
+Public Transport Stations,Holmstrup,10.2719151,55.3619633
+Public Transport Stations,Bred,10.1058038,55.3732621
+Public Transport Stations,Tommerup,10.1828194,55.3495891
+Public Transport Stations,Ejby,9.9300034,55.4286740
+Public Transport Stations,Vamdrup,9.2864145,55.4279941
+Public Transport Stations,Kolding,9.4814404,55.4905542
+Public Transport Stations,Sildfærgen,8.5703000,55.0862065
+Public Transport Stations,Områdecenter Hedelund (Esbjerg),8.4959866,55.4888699
+Public Transport Stations,Hinnerup,10.0595198,56.2630315
+Public Transport Stations,Hobro,9.7823381,56.6431381
+Public Transport Stations,Svenstrup,9.8561756,56.9720799
+Public Transport Stations,Aakirkeby Terminalen,14.9131914,55.0724999
+Public Transport Stations,Vrå,9.9421734,57.3547468
+Public Transport Stations,Rønland,8.1947766,56.6567473
+Public Transport Stations,Gråsten,9.5939371,54.9190195
+Public Transport Stations,Tistrup,8.5983293,55.7167199
+Public Transport Stations,Lundby,11.8694404,55.1102983
+Public Transport Stations,Fredericia,9.7395230,55.5684379
+Public Transport Stations,Vildsund Vest,8.6264271,56.8824490
+Public Transport Stations,Hirtshals,9.9634184,57.5917049
+Public Transport Stations,Helsingør-Helsingborg,12.6160047,56.0329460
+Public Transport Stations,Herning Station,8.9774155,56.1338148
+Public Transport Stations,Moheda,14.5764443,57.0024512
+Public Transport Stations,Limmared,13.3537962,57.5362793
+Public Transport Stations,Tranemo bussterminal,13.3515206,57.4851910
+Public Transport Stations,Ulricehamn busstation,13.4116451,57.7938796
+Public Transport Stations,Hillerød,12.3114140,55.9270287
+Public Transport Stations,Allerød st.,12.3563603,55.8710098
+Public Transport Stations,"Kokkedal st. Bus(150S,500S,377,384,95N)",12.5022195,55.9027239
+Public Transport Stations,Lufthavnen (Metro),12.6492236,55.6309113
+Public Transport Stations,Varde Kaserne,8.4721676,55.6120504
+Public Transport Stations,Gnosjö station,13.7361448,57.3579196
+Public Transport Stations,Lammhult,14.5855115,57.1715815
+Public Transport Stations,Morsum,8.4337685,54.8721377
+Public Transport Stations,Lunderskov,9.3040943,55.4803997
+Public Transport Stations,Main Street,13.8309372,57.2625054
+Public Transport Stations,Old Mexico,13.8389615,57.2631984
+Public Transport Stations,Stockaryd,14.5916289,57.3164261
+Public Transport Stations,Öresundslinjen,12.6097261,56.0296728
+Public Transport Stations,Ballebro,9.6707708,54.9990072
+Public Transport Stations,Borup Station,11.9722898,55.4940698
+Public Transport Stations,Bredebro,8.8231512,55.0569560
+Public Transport Stations,Bur,8.4279829,56.3677389
+Public Transport Stations,Gårde,8.6115365,55.7652974
+Public Transport Stations,Hee,8.2867545,56.1440538
+Public Transport Stations,Hjerm,8.6398964,56.4388053
+Public Transport Stations,Hjortshøj,10.2685378,56.2446348
+Public Transport Stations,Jyderup St.,11.3992251,55.6600009
+Public Transport Stations,Nivå st.,12.5058579,55.9340773
+Public Transport Stations,"Banegårdspladsen, afsætning (Næstved St)",11.7655718,55.2321281
+Public Transport Stations,Ringsted station,11.7852930,55.4386193
+Public Transport Stations,Sig,8.5769413,55.6654375
+Public Transport Stations,Tim,8.3057895,56.1953300
+Public Transport Stations,Tureby,12.0760275,55.3734096
+Public Transport Stations,Tølløse Station,11.7728615,55.6117882
+Public Transport Stations,Ulstrup,9.7930525,56.3954985
+Public Transport Stations,Varde Nord,8.5001359,55.6311845
+Public Transport Stations,Vemb,8.3454452,56.3438706
+Public Transport Stations,Viby Sjælland Station,12.0242095,55.5494528
+Public Transport Stations,Bryggebroen,12.5688930,55.6619280
+Public Transport Stations,Refshaleøen,12.6071292,55.6909228
+Public Transport Stations,Vestamager,12.5755841,55.6193710
+Public Transport Stations,Napstjert,10.4083168,57.5545542
+Public Transport Stations,Svendborg-Hjortø,10.6146214,55.0577696
+Public Transport Stations,Ordrup,12.5835616,55.7628994
+Public Transport Stations,Kokkedal,12.5024245,55.9032608
+Public Transport Stations,Dyssekilde,11.9427382,55.9854238
+Public Transport Stations,Godhavn,12.0972072,56.0599174
+Public Transport Stations,Ingelstad centrum,14.9211717,56.7452151
+Public Transport Stations,Brösarp,14.1254269,55.7349713
+Public Transport Stations,Frederikshavnsvej,10.5634573,57.7246845
+Public Transport Stations,Jerup,10.4171808,57.5320982
+Public Transport Stations,Strandby,10.4900500,57.4899627
+Public Transport Stations,Rimmen,10.4453825,57.5047875
+Public Transport Stations,Ålbæk,10.4082686,57.5924007
+Public Transport Stations,Bunken,10.4394377,57.6301229
+Public Transport Stations,Hulsig,10.4633661,57.6596943
+Public Transport Stations,Hornslet,10.3136376,56.3205403
+Public Transport Stations,Gröde Ostanleger,8.7290372,54.6294518
+Public Transport Stations,Herning,8.9782986,56.1325451
+Public Transport Stations,Lem,8.3859305,56.0250863
+Public Transport Stations,Ringkøbing,8.2505079,56.0928359
+Public Transport Stations,Sindal,10.2021794,57.4700429
+Public Transport Stations,Tornby,9.9496021,57.5329636
+Public Transport Stations,Vidstrup,9.9475790,57.5018957
+Public Transport Stations,Holbæk,11.7080223,55.7155286
+Public Transport Stations,Jægerhuset,12.4415498,55.8089216
+Public Transport Stations,Bagsværdvej,12.4593890,55.7665781
+Public Transport Stations,MS Thor,14.9709917,55.2125722
+Public Transport Stations,Guldager,8.4404779,55.5359562
+Public Transport Stations,Borup,11.9720903,55.4946244
+Public Transport Stations,Hundested,11.8527389,55.9636015
+Public Transport Stations,Gilleleje,12.3022774,56.1236140
+Public Transport Stations,Ringsted,11.7860978,55.4380663
+Public Transport Stations,Slagelse,11.3485562,55.4075014
+Public Transport Stations,Odder - Busterminal,10.1501619,55.9714832
+Public Transport Stations,Holte Havn,12.4682462,55.8100405
+Public Transport Stations,Grenaa,10.8804542,56.4127390
+Public Transport Stations,Landskrona,12.8575136,55.8790784
+Public Transport Stations,Havdrup,12.1171736,55.5436649
+Public Transport Stations,Roskilde Festivalplads,12.0700543,55.6221133
+Public Transport Stations,Ramme,8.2105268,56.4889128
+Public Transport Stations,Boulevarden,8.4601580,55.6238156
+Public Transport Stations,Hyllerslev,8.4007068,55.6263151
+Public Transport Stations,Baunhøj,8.2830027,55.6358524
+Public Transport Stations,Løftgård,8.3530239,55.7294724
+Public Transport Stations,Fåre,8.2617436,56.4539623
+Public Transport Stations,Bohus centrum,12.0150335,57.8514227
+Public Transport Stations,Kinna resecentrum,12.6969414,57.5057013
+Public Transport Stations,Varde,8.4844330,55.6159258
+Public Transport Stations,Bågø - Assens,9.8896055,55.2703253
+Public Transport Stations,Kungsbacka station,12.0794160,57.4905121
+Public Transport Stations,Bogense Rutebilstation,10.0862779,55.5649820
+Public Transport Stations,Femøren,12.6383380,55.6451882
+Public Transport Stations,Amager Strand,12.6318585,55.6561353
+Public Transport Stations,Kastrup,12.6469508,55.6357222
+Public Transport Stations,Bella Center,12.5829260,55.6380729
+Public Transport Stations,Øresund,12.6287182,55.6614401
+Public Transport Stations,DR Byen,12.5890175,55.6557682
+Public Transport Stations,Sundby,12.5857172,55.6452516
+Public Transport Stations,Islands Brygge,12.5852113,55.6634112
+Public Transport Stations,Lystrup,10.2351986,56.2310704
+Public Transport Stations,Løgten,10.3172907,56.2757352
+Public Transport Stations,Mørke,10.3760183,56.3393280
+Public Transport Stations,Ryomgård,10.5005559,56.3800312
+Public Transport Stations,Skødstrup,10.3031417,56.2618625
+Public Transport Stations,Trustrup,10.7715962,56.3507254
+Public Transport Stations,Holte Station,12.4676394,55.8081675
+Public Transport Stations,Albertslund Station,12.3521680,55.6588355
+Public Transport Stations,Svendborg Busterminal,10.6127172,55.0610028
+Public Transport Stations,Klampenborg,12.5880869,55.7767944
+Public Transport Stations,Middelgrundsfortet,12.6660605,55.7197889
+Public Transport Stations,Samsø - Hou,10.2591054,55.9124582
+Public Transport Stations,Süderbrarup,9.7710492,54.6370044
+Public Transport Stations,"Anleger der ""MS Eilun""",8.3975556,54.6292451
+Public Transport Stations,Gamlestaden,12.0041784,57.7273513
+Public Transport Stations,Surte,12.0132735,57.8252103
+Public Transport Stations,Falkenberg,12.5082399,56.9195368
+Public Transport Stations,Aspedalen,12.2586987,57.7626817
+Public Transport Stations,Aspen,12.2407252,57.7544361
+Public Transport Stations,Lerum,12.2716804,57.7690868
+Public Transport Stations,Stenkullen,12.3141615,57.7914691
+Public Transport Stations,Sävenäs,12.0254724,57.7247854
+Public Transport Stations,Aneby,14.8120627,57.8376960
+Public Transport Stations,Sävsjö,14.6654815,57.4027796
+Public Transport Stations,Jübek,9.4051240,54.5589408
+Public Transport Stations,Vislanda,14.4546073,56.7868213
+Public Transport Stations,Örtofta,13.2439448,55.7788139
+Public Transport Stations,Anneberg,12.1007582,57.5386004
+Public Transport Stations,Kungsbacka,12.0798789,57.4900633
+Public Transport Stations,Hede,12.0840091,57.5135192
+Public Transport Stations,Kållered,12.0485103,57.6103737
+Public Transport Stations,Laholm,12.9990604,56.5022529
+Public Transport Stations,Dösjebro,13.0323526,55.8230233
+Public Transport Stations,Glumslöv,12.8139456,55.9441998
+Public Transport Stations,Gunnesbo,13.1675131,55.7269551
+Public Transport Stations,Häljarp,12.9117426,55.8609346
+Public Transport Stations,Kävlinge,13.1113280,55.7948786
+Public Transport Stations,Ramlösa,12.7277133,56.0236621
+Public Transport Stations,Rydebäck,12.7834962,55.9658595
+Public Transport Stations,Teckomatorp,13.0857829,55.8705218
+Public Transport Stations,Billeberga,12.9957337,55.8838170
+Public Transport Stations,Vaggeryd,14.1455697,57.4982451
+Public Transport Stations,Flintholm St.,12.4986859,55.6859951
+Public Transport Stations,Farsø busterminal,9.3387325,56.7719900
+Public Transport Stations,Dronningmølle,12.3875631,56.0976319
+Public Transport Stations,Stæremosen,12.3188462,56.1122073
+Public Transport Stations,Thisted,8.6877504,56.9525771
+Public Transport Stations,Aarup,10.0519183,55.3830399
+Public Transport Stations,Gelsted,9.9747029,55.3959843
+Public Transport Stations,Aalborg,9.9167688,57.0429609
+Public Transport Stations,Aalborg Vestby,9.9084872,57.0530125
+Public Transport Stations,Balleby,8.2422507,56.5475879
+Public Transport Stations,Nørgaardsvej,12.5131240,55.7706277
+Public Transport Stations,Vejle,9.5365649,55.7066917
+Public Transport Stations,Svendborg,10.6123386,55.0597191
+Public Transport Stations,Stenstrup,10.5092258,55.1313483
+Public Transport Stations,Københavns Lufthavn Kastrup,12.6494170,55.6295551
+Public Transport Stations,Københavns Hovedbanegård,12.5653736,55.6724527
+Public Transport Stations,Svendborg Vest,10.5817994,55.0557140
+Public Transport Stations,Stenstrup Syd,10.5151776,55.1205002
+Public Transport Stations,Kværndrup,10.5195274,55.1776998
+Public Transport Stations,Rudme,10.4875601,55.1980829
+Public Transport Stations,Tjæreborg,8.5793295,55.4665620
+Public Transport Stations,Gørding,8.8015744,55.4696171
+Public Transport Stations,Harboøre,8.1788771,56.6205864
+Public Transport Stations,Thyborøn,8.2147161,56.7041225
+Public Transport Stations,Skalbjerg,10.1414635,55.3660288
+Public Transport Stations,Rødekro,9.3328242,55.0696351
+Public Transport Stations,Hadsten,10.0478216,56.3271718
+Public Transport Stations,Östra Grevie,13.1326800,55.4676727
+Public Transport Stations,Maribo,11.5022570,54.7768029
+Public Transport Stations,Ballen Færgehavn,10.6447315,55.8076853
+Public Transport Stations,Folkparken,12.8723271,56.6809309
+Public Transport Stations,Kastellet,14.8640112,56.1605371
+Public Transport Stations,Anholt Grenå,11.5108817,56.7159128
+Public Transport Stations,DFDS ferry terminal Copenhagen,12.5953987,55.7011424
+Public Transport Stations,Nykøbing F,11.8778340,54.7668891
+Public Transport Stations,Roskilde,12.0877782,55.6385464
+Public Transport Stations,Flensburg / Flensborg,9.4365273,54.7741124
+Public Transport Stations,Sassnitz,13.6379367,54.5164576
+Public Transport Stations,Carlsberg,12.5361547,55.6634508
+Public Transport Stations,Lindholm,9.9047405,57.0670441
+Public Transport Stations,Skanderborg,9.9246973,56.0435631
+Public Transport Stations,Haslev,11.9607806,55.3294750
+Public Transport Stations,Gadstrup,12.0996554,55.5728238
+Public Transport Stations,Alken,9.8456377,56.0525889
+Public Transport Stations,Skagen,10.5916790,57.7241667
+Public Transport Stations,Svendborg-Skarø-Drejø,10.6149042,55.0592474
+Public Transport Stations,Kolle Kolle,12.4090266,55.7847950
+Public Transport Stations,Abfahrtpunkt Ausflugsschiffe,13.6424523,54.5127272
+Public Transport Stations,Thorsager,10.4479390,56.3560631
+Public Transport Stations,Svendborg-Ærøskøbing,10.6147914,55.0577680
+Public Transport Stations,Nordby,8.4084492,55.4501770
+Public Transport Stations,Teglholmen,12.5513229,55.6479201
+Public Transport Stations,Fynshav,9.9852697,54.9946335
+Public Transport Stations,Østerport,12.5883611,55.6933460
+Public Transport Stations,Nørreport,12.5717693,55.6834327
+Public Transport Stations,Horsens,9.8356522,55.8626973
+Public Transport Stations,Korsør,11.1347227,55.3571552
+Public Transport Stations,Langeskov,10.5866134,55.3617508
+Public Transport Stations,Holsted,8.9144535,55.4847669
+Public Transport Stations,Esbjerg,8.4582375,55.4678370
+Public Transport Stations,Brejning,9.6591388,55.6665112
+Public Transport Stations,Odense,10.3861989,55.4018379
+Public Transport Stations,Gredstedbro,8.7410961,55.3974404
+Public Transport Stations,Nørre Aaby,9.8705631,55.4602039
+Public Transport Stations,Kavslunde,9.8108381,55.4758609
+Public Transport Stations,Middelfart,9.7344457,55.5016258
+Public Transport Stations,Tinglev,9.2581486,54.9361334
+Public Transport Stations,Sønderborg,9.7787325,54.9124564
+Public Transport Stations,Høvelte,12.3883601,55.8509769
+Public Transport Stations,Vojens,9.3049359,55.2484701
+Public Transport Stations,Hjørring,9.9856433,57.4563721
+Public Transport Stations,Kvissel,10.4124306,57.4719856
+Public Transport Stations,Universitetshospitalet,10.1764096,56.1924949
+Public Transport Stations,Lisbjerg Bygade,10.1646398,56.2167379
+Public Transport Stations,Klokhøjen,10.1637677,56.2123605
+Public Transport Stations,Aarhus H,10.2039136,56.1497091
+Public Transport Stations,Viby J,10.1598843,56.1219040
+Public Transport Stations,Odder,10.1505062,55.9718333
+Public Transport Stations,Rude Havvej,10.1541815,55.9834059
+Public Transport Stations,Assedrup,10.1825962,56.0040003
+Public Transport Stations,Malling,10.1912382,56.0376645
+Public Transport Stations,Beder,10.1982106,56.0569162
+Public Transport Stations,Vilhelmsborg,10.1789691,56.0640386
+Public Transport Stations,Mårslet,10.1642908,56.0687756
+Public Transport Stations,Mølleparken,10.1543874,56.0725737
+Public Transport Stations,Nørrevænget,10.1512014,56.0921794
+Public Transport Stations,Tranbjerg,10.1358246,56.0965770
+Public Transport Stations,G. Clausens Vej,10.1257973,56.1114793
+Public Transport Stations,Øllegårdsvej,10.1338255,56.1146056
+Public Transport Stations,Rosenhøj,10.1471843,56.1169706
+Public Transport Stations,Kongsvang,10.1742357,56.1353763
+Public Transport Stations,Østbanetorvet,10.2163979,56.1628981
+Public Transport Stations,Hedehusgård,12.1875004,55.6476569
+Public Transport Stations,Sølund,12.1864632,55.6410669
+Public Transport Stations,Brandhøj,12.1828629,55.6363403
+Public Transport Stations,Rubjerg,12.1698314,55.6245993
+Public Transport Stations,Fem Ege,12.1598153,55.6149089
+Public Transport Stations,Torsøvej,10.2284891,56.2054805
+Public Transport Stations,Vestre Strandallé,10.2368262,56.1949777
+Public Transport Stations,Vanløse,12.4925009,55.6871452
+Public Transport Stations,Nejrup,8.1877347,56.5655651
+Public Transport Stations,Valby,12.5135924,55.6637755
+Public Transport Stations,Bor Norra,14.1700665,57.1161455
+Public Transport Stations,Husum,12.4631515,55.7102870
+Public Transport Stations,Ballerup,12.3582875,55.7297174
+Public Transport Stations,Stenløse,12.1900778,55.7668501
+Public Transport Stations,Furesøbad,12.3875540,55.8033845
+Public Transport Stations,Lund centralstation,13.1863839,55.7067251
+Public Transport Stations,Amhult resecentrum,11.7799015,57.7095976
+Public Transport Stations,Dokk1,10.2129758,56.1541463
+Public Transport Stations,Skolebakken,10.2131208,56.1571461
+Public Transport Stations,Hedensted,9.6989045,55.7683994
+Public Transport Stations,Høje Taastrup,12.2685570,55.6489673
+Public Transport Stations,Skaaningbro,9.4934251,56.0263996
+Public Transport Stations,Ølby,12.1756600,55.4798401
+Public Transport Stations,Køge Nord,12.1726037,55.4995703
+Public Transport Stations,Hvalsø,11.8592384,55.5953424
+Public Transport Stations,Teglværket,12.3771815,55.8582756
+Public Transport Stations,Kvistgård,12.5027958,55.9905165
+Public Transport Stations,Allerød,12.3569533,55.8710875
+Public Transport Stations,Storkevad,12.3796740,55.8614974
+Public Transport Stations,Lergravsparken,12.6170475,55.6622360
+Public Transport Stations,Amagerbro,12.6028945,55.6633965
+Public Transport Stations,Christianshavn,12.5913771,55.6720958
+Public Transport Stations,Kongens Nytorv,12.5850827,55.6796344
+Public Transport Stations,Forum,12.5525408,55.6818073
+Public Transport Stations,Frederiksberg,12.5322237,55.6811699
+Public Transport Stations,Fasanvej,12.5235687,55.6815945
+Public Transport Stations,Grenaa - Trafikterminal,10.8809691,56.4130285
+Public Transport Stations,Lyngby,12.5031145,55.7680595
+Public Transport Stations,Nærum,12.5281913,55.8138743
+Public Transport Stations,Nykøbing F. Station,11.8771876,54.7668512
+Public Transport Stations,Vejle Sygehus,9.5370354,55.7148547
+Public Transport Stations,Mozarts Plads,12.5343368,55.6489712
+Public Transport Stations,Sluseholmen,12.5444254,55.6458406
+Public Transport Stations,Enghave Brygge,12.5565102,55.6540722
+Public Transport Stations,Havneholmen,12.5593142,55.6609865
+Public Transport Stations,Stoholm,9.1502120,56.4874367
+Public Transport Stations,Spangsbjerg,8.4607842,55.4922758
+Public Transport Stations,Holstebro,8.6204170,56.3653479
+Public Transport Stations,Humlebæk,12.5330122,55.9637554
+Public Transport Stations,Hårlev,12.2273620,55.3517563
+Public Transport Stations,Frederikshavn,10.5403841,57.4413647
+Public Transport Stations,Børkop,9.6521884,55.6421013
+Public Transport Stations,Brørup,9.0155858,55.4826503
+Public Transport Stations,Bandholm,11.4819246,54.8357870
+Public Transport Stations,Espergærde,12.5495709,55.9954523
+Public Transport Stations,Orientkaj,12.5951777,55.7118379
+Public Transport Stations,Kalundborg Øst,11.1241213,55.6760433
+Public Transport Stations,Gedser,11.9256619,54.5760991
+Public Transport Stations,Thyregod,9.2520359,55.9084150
+Public Transport Stations,Laven,9.7175105,56.1247189
+Public Transport Stations,Oksbøl,8.2836773,55.6260402
+Public Transport Stations,Husby,9.5757182,54.7642860
+Public Transport Stations,Uphusum,8.8632444,54.8388134
+Public Transport Stations,Rieseby,9.8206307,54.5416843
+Public Transport Stations,Süderlügum,8.8893074,54.8710084
+Public Transport Stations,Karise Station,12.1958384,55.3069109
+Public Transport Stations,Rådhuspladsen,12.5682006,55.6764406
+Public Transport Stations,Gammel Strand,12.5789275,55.6775945
+Public Transport Stations,Enghave Plads,12.5467948,55.6672270
+Public Transport Stations,Frederiksberg Allé,12.5406118,55.6735083
+Public Transport Stations,Nørrebros Runddel,12.5489348,55.6935280
+Public Transport Stations,Aksel Møllers Have,12.5329471,55.6860507
+Public Transport Stations,Nuuks Plads,12.5425294,55.6884779
+Public Transport Stations,Skjolds Plads,12.5487689,55.7034992
+Public Transport Stations,Vibenhus Runddel,12.5647764,55.7063956
+Public Transport Stations,Marmorkirken,12.5890307,55.6851258
+Public Transport Stations,Trianglen,12.5755550,55.6992513
+Public Transport Stations,Poul Henningsens Plads,12.5761362,55.7094751
+Public Transport Stations,Tønder,8.8604254,54.9332725
+Public Transport Stations,Ohs bruk,14.3308168,57.1928416
+Public Transport Stations,Borås C,12.9318529,57.7208362
+Public Transport Stations,Ystad,13.8251994,55.4273931
+Public Transport Stations,Malmö Syd Svågertorp,12.9926500,55.5472428
+Public Transport Stations,Triangeln,13.0010372,55.5932748
+Public Transport Stations,Persborg,13.0293366,55.5806200
+Public Transport Stations,Rosengård,13.0307937,55.5888929
+Public Transport Stations,Östervärn,13.0315018,55.6078691
+Public Transport Stations,Oxie,13.0956763,55.5417570
+Public Transport Stations,Lockryd,13.1152315,57.6147939
+Public Transport Stations,Løkken Busterminal,9.7120856,57.3685769
+Public Transport Stations,Terminal 2,10.2530942,56.1520282
+Public Transport Stations,Terminal 3,10.2542527,56.1517392
+Public Transport Stations,Terminal 1,10.2521472,56.1522710
+Public Transport Stations,Langå,9.8962704,56.3863117
+Public Transport Stations,Aalborg Lufthavn,9.8750846,57.0847799
+Public Transport Stations,Sprogøvej,8.2097572,56.6922377
+Public Transport Stations,Alvesta,14.5572298,56.8989924
+Public Transport Stations,Diö,14.2144150,56.6332902
+Public Transport Stations,Älmhult,14.1369001,56.5509334
+Public Transport Stations,Fährhafen Wyk Anleger 3,8.5768449,54.6926401
+Public Transport Stations,Borris,8.6446805,55.9585289
+Public Transport Stations,Nørre Nebel,8.2905921,55.7772816
+Public Transport Stations,Rødkærsbro,9.4992634,56.3529703
+Public Transport Stations,Ry,9.7586878,56.0912658
+Public Transport Stations,Risskov Strandpark,10.2370451,56.1843725
+Public Transport Stations,Hørdum,8.4903197,56.8504730
+Public Transport Stations,Janderup,8.3738700,55.6227123
+Public Transport Stations,Skive St.,9.0259835,56.5612927
+Public Transport Stations,Uglev,8.5417601,56.6125662
+Public Transport Stations,Sjørring,8.5880336,56.9519074
+Public Transport Stations,Jegum,8.3017152,55.6646796
+Public Transport Stations,Ydby,8.3985362,56.7139636
+Public Transport Stations,Vrøgum,8.2922517,55.6538649
+Public Transport Stations,Ribe Nørremark,8.7759680,55.3396566
+Public Transport Stations,Amstrup,8.3296366,56.3908147
+Public Transport Stations,Gjesing,8.4573095,55.5096696
+Public Transport Stations,Bedsted Thy,8.4077389,56.8067003
+Public Transport Stations,Højslev,9.1104515,56.5494043
+Public Transport Stations,Jelling,9.4201541,55.7541136
+Public Transport Stations,Brøns,8.7407720,55.1946892
+Public Transport Stations,Silkeborg Trafikterminal,9.5446703,56.1642257
+Public Transport Stations,Silkeborg,9.5442637,56.1639546
+Public Transport Stations,Lyngs,8.4512148,56.6643667
+Public Transport Stations,Engesvang,9.3517705,56.1678883
+Public Transport Stations,Oddesund Nord,8.5470037,56.5825864
+Public Transport Stations,Vinderup,8.7832488,56.4829526
+Public Transport Stations,Svejbæk,9.6364340,56.1327912
+Public Transport Stations,Frisvadvej,8.4865670,55.6277378
+Public Transport Stations,Ølgod,8.6228043,55.8109645
+Public Transport Stations,Give,9.2360572,55.8429533
+Public Transport Stations,Tønder Nord,8.8610647,54.9388984
+Public Transport Stations,Døstrup Sønderjylland,8.8077454,55.1175295
+Public Transport Stations,Hvidbjerg,8.5266647,56.6498828
+Public Transport Stations,Bramming,8.7067790,55.4647252
+Public Transport Stations,Studsgård,8.9105827,56.0917529
+Public Transport Stations,Hurup Thy,8.4178998,56.7511648
+Public Transport Stations,Sejstrup,8.7335019,55.4352849
+Public Transport Stations,Dyreby,8.2982478,55.6999360
+Public Transport Stations,Armose,8.2657179,56.5293278
+Public Transport Stations,Lunde,8.3640953,55.7561395
+Public Transport Stations,Brande,9.1304693,55.9444353
+Public Transport Stations,Sinkbæk,8.2840846,56.4377134
+Public Transport Stations,Hviding,8.7301840,55.2745441
+Public Transport Stations,Visby,8.8019351,55.0092975
+Public Transport Stations,Ikast,9.1552631,56.1448411
+Public Transport Stations,Rejsby,8.7320676,55.2305427
+Public Transport Stations,Humlum,8.5521960,56.5398950
+Public Transport Stations,Horsens - Trafikterminal,9.8362344,55.8636371
+Public Transport Stations,Billum,8.3313480,55.6168951
+Public Transport Stations,Lemvig Havn,8.3054240,56.5500659
+Public Transport Stations,Bilka,10.4339763,55.3769830
+Public Transport Stations,Cortex Park,10.4285006,55.3749819
+Public Transport Stations,Campus Odense,10.4276090,55.3708127
+Public Transport Stations,SDU,10.4281368,55.3668656
+Public Transport Stations,SDU Syd/Hospital Nord,10.4276091,55.3635541
+Public Transport Stations,Hospital Syd,10.4270121,55.3595936
+Public Transport Stations,Parkering Odense Syd,10.4210958,55.3569126
+Public Transport Stations,Hestehaven,10.4037357,55.3568436
+Public Transport Stations,Hjallese St.,10.3933562,55.3579714
+Public Transport Stations,Palnatokesvej,10.4037738,55.3942892
+Public Transport Stations,Østerbæksvej,10.4159530,55.3934091
+Public Transport Stations,Korsløkke,10.4206757,55.3930644
+Public Transport Stations,Ejerslykke,10.4248196,55.3891507
+Public Transport Stations,Rosengårdcentret,10.4285927,55.3848473
+Public Transport Stations,IKEA,10.4319208,55.3813140
+Public Transport Stations,Vestre Stationsvej,10.3721881,55.3963193
+Public Transport Stations,Kongensgade,10.3785396,55.3986601
+Public Transport Stations,Odense Banegård,10.3869544,55.4009441
+Public Transport Stations,Odeon,10.3899899,55.3997993
+Public Transport Stations,Albani Torv,10.3904526,55.3966026
+Public Transport Stations,Benedikts Plads,10.3973995,55.3929494
+Public Transport Stations,Østeraadalen,9.9142673,57.0163949
+Public Transport Stations,Limfjorden,10.0449117,57.0505124
+Public Transport Stations,Vinge,12.1158016,55.8102883
+Public Transport Stations,Jerne,8.4864728,55.4744618
+Public Transport Stations,Värnamo,14.0358477,57.1862915
+Public Transport Stations,Mölndal,12.0185922,57.6562521
+Public Transport Stations,Lomma,13.0749433,55.6739319
+Public Transport Stations,Furulund,13.0972959,55.7752126
+Public Transport Stations,Hjørring Øst,10.0055586,57.4548723
+Public Transport Stations,Halmstad C,12.8642537,56.6692971
+Public Transport Stations,Rødby,11.4311387,54.6806916
+Public Transport Stations,Fähranleger Hallig Hooge,8.5562380,54.5788368
+Public Transport Stations,Roskilde St. (Stationscentret),12.0840409,55.6379094
+Public Transport Stations,Skjern Rtb,8.4944459,55.9454888
+Public Transport Stations,Helsingborg - Ven,12.7223024,55.9035448
+Public Transport Stations,MS Friheden,11.6491516,55.1774904
+Public Transport Stations,Blokhus Busterminal (Møllevej),9.5896854,57.2507929
+Public Transport Stations,Skælskør Busterminal,11.2920330,55.2505484
+Public Transport Stations,Fährhafen Wyk Anleger 4,8.5774169,54.6924372
+Public Transport Stations,ZOB Flensburg,9.4374260,54.7859965
+Public Transport Stations,Eggebek ZOB,9.3697924,54.6190879
+Public Transport Stations,Svalöv,13.1103829,55.9122782
+Public Transport Stations,Kågeröd,13.0834353,55.9983095
+Public Transport Stations,Billesholm,12.9769667,56.0565565
+Public Transport Stations,Troldebakkerne,12.1903653,56.0322656
+Public Transport Stations,Ängelholm,12.8539592,56.2456150
+Public Transport Stations,Gudhjem Havn,14.9714444,55.2123533
+Public Transport Stations,Hindås,12.4510905,57.7044070
+Public Transport Stations,Mölnlycke,12.1178368,57.6568319
+Public Transport Stations,Bollebygd,12.5705829,57.6676254
+Public Transport Stations,Borgstena,13.0149767,57.8832839
+Public Transport Stations,Knalleland,12.9426134,57.7341013
+Public Transport Stations,Fristad,13.0085528,57.8271083
+Public Transport Stations,Sandared,12.7915218,57.7098647
+Public Transport Stations,Liseberg,11.9950224,57.6983815
+Public Transport Stations,Månsarp,14.0708214,57.6541103
+Public Transport Stations,Taberg,14.0872310,57.6788374
+Public Transport Stations,Norrahammar,14.1160597,57.7045636
+Public Transport Stations,Hovslätt,14.1237396,57.7347726
+Public Transport Stations,Rocksjön,14.1982960,57.7751117
+Public Transport Stations,Jönköping,14.1663188,57.7841901
+Public Transport Stations,Bankeryd,14.1280899,57.8602896
+Public Transport Stations,Vetlanda,15.0818494,57.4258681
+Public Transport Stations,Ekenässjön,15.0196570,57.4893854
+Public Transport Stations,Björköby,14.9105716,57.5209724
+Public Transport Stations,Stensjön,14.8232080,57.5825704
+Public Transport Stations,Brinellskolan,14.7010884,57.6694192
+Public Transport Stations,Äng,14.5680615,57.6917468
+Public Transport Stations,Tenhult,14.3266492,57.7051510
+Public Transport Stations,Huskvarna,14.2649291,57.7823655
+Public Transport Stations,Hok,14.2751898,57.5140452
+Public Transport Stations,Eksjö,14.9768047,57.6639084
+Public Transport Stations,Ormaryd,14.8327298,57.6649205
+Public Transport Stations,Skillingaryd,14.0908805,57.4282579
+Public Transport Stations,Hestra,13.5956427,57.4431654
+Public Transport Stations,Malmbäck,14.4597258,57.5777851
+Public Transport Stations,Gnosjö,13.7354120,57.3583622
+Public Transport Stations,Tyringe,13.5982659,56.1595791
+Public Transport Stations,Perstorp,13.3973631,56.1364456
+Public Transport Stations,Åstorp,12.9488897,56.1340543
+Public Transport Stations,Kvidinge,13.0444635,56.1372931
+Public Transport Stations,Klippan,13.1289706,56.1307673
+Public Transport Stations,Smålandsstenar,13.4146258,57.1613655
+Public Transport Stations,Reftele,13.5930222,57.1760370
+Public Transport Stations,Bredaryd,13.7376979,57.1765168
+Public Transport Stations,Forsheda,13.8323101,57.1634687
+Public Transport Stations,Rörstorp,14.0640443,57.1723674
+Public Transport Stations,Ödåkra,12.7460410,56.1056107
+Public Transport Stations,Hovmantorp,15.1408419,56.7859187
+Public Transport Stations,Gemla,14.6451429,56.8705990
+Public Transport Stations,Rydaholm,14.3126053,56.9855502
+Public Transport Stations,Klevshult,14.0973204,57.3519073
+Public Transport Stations,Båstad,12.9057866,56.4311641
+Public Transport Stations,Maria,12.7105152,56.0759194
+Public Transport Stations,Kattarp,12.7781376,56.1445095
+Public Transport Stations,Förslöv,12.8011805,56.3551433
+Public Transport Stations,Påarp,12.8174977,56.0293512
+Public Transport Stations,Bjuv,12.9122776,56.0831811
+Public Transport Stations,Mörarp,12.8734486,56.0556765
+Public Transport Stations,Killeberg,14.0982297,56.4746873
+Public Transport Stations,Ballingslöv,13.8489667,56.2145652
+Public Transport Stations,Bjärnum,13.7065977,56.2916729
+Public Transport Stations,Vittsjö,13.6632854,56.3423447
+Public Transport Stations,Markaryd,13.5938162,56.4591858
+Public Transport Stations,Marieholm,13.1590663,55.8646274
+Public Transport Stations,Tågarp,12.9520601,55.9266468
+Public Transport Stations,Vallåkra,12.8618480,55.9637950
+Public Transport Stations,Gantofta,12.8056142,55.9904260
+Public Transport Stations,Svedala,13.2328901,55.5068213
+Public Transport Stations,Eslöv,13.3051287,55.8377321
+Public Transport Stations,Stångby,13.1999123,55.7505965
+Public Transport Stations,Burlöv,13.0794128,55.6405450
+Public Transport Stations,Skurup,13.4980318,55.4801987
+Public Transport Stations,Rydsgård,13.5877302,55.4742703
+Public Transport Stations,Svarte,13.7174123,55.4284990
+Public Transport Stations,Köpingebro,13.9333087,55.4562091
+Public Transport Stations,Tomelilla,13.9493617,55.5464401
+Public Transport Stations,Lunnarp,14.0425935,55.5411422
+Public Transport Stations,Smedstorp,14.1173705,55.5496601
+Public Transport Stations,Simrishamn,14.3528649,55.5541501
+Public Transport Stations,Gärsnäs,14.1813479,55.5465007
+Public Transport Stations,Önnestad,14.0289053,56.0606470
+Public Transport Stations,Vinslöv,13.9169151,56.1048359
+Public Transport Stations,Sösdala,13.6806661,56.0364321
+Public Transport Stations,Tjörnarp,13.6299670,56.0004223
+Public Transport Stations,Stehag,13.3930474,55.9002719
+Public Transport Stations,Fjälkinge,14.2797697,56.0437393
+Public Transport Stations,Ytterby,11.9176152,57.8623394
+Public Transport Stations,Prøvestencentret,12.5726509,56.0199275
+Public Transport Stations,Christiansfeld Rutebilstation,9.4834220,55.3573976
+Public Transport Stations,Universitetsparken,10.2076605,56.1670580
+Public Transport Stations,Vejen,9.1357514,55.4758216
+Public Transport Stations,Mölnlycketerminalen,12.1175686,57.6572064
+Public Transport Stations,Öhr Terminal,14.6757969,56.9934321
+Public Transport Stations,Rieseby Schleibrücke Süd,9.8213282,54.5821434
+Public Transport Stations,Boren-Lindaunis Schleibrücke Nord,9.8190262,54.5845604
+Public Transport Stations,Jungshoved Kirkehavn (Postbåden Røret),12.1215148,55.0814397
+Public Transport Stations,Stavreby (Postbåden Røret),12.1456634,55.0790528
+Public Transport Stations,Camping Mønbroen,12.1730295,54.9864449
+Public Transport Stations,Øresundslinjen,12.6141372,56.0330531
+Public Transport Stations,Sundbusserne,12.6155822,56.0340651
+Public Transport Stations,Stigsnæs Færgehavn,11.2446022,55.2124690
+Public Transport Stations,Kinnared,13.1072688,57.0253200
+Public Transport Stations,Torup station,13.0798325,56.9576313
+Public Transport Stations,Sannarp,12.8925442,56.6861159
+Public Transport Stations,Landeryd,13.2651812,57.0767890
+Public Transport Stations,Skjelskør V,11.2910478,55.2536829
+Public Transport Stations,Favrholm,12.3149094,55.9106725
+Public Transport Stations,Klostergården,13.1727051,55.6953605
+Public Transport Stations,Hjärup,13.1350489,55.6732634
+Public Transport Stations,Åkarp,13.1045517,55.6551397
+Public Transport Stations,Höganäs Busstorget,12.5587371,56.2011196
+Public Transport Stations,Lindome,12.0786712,57.5760411
+Public Transport Stations,Karlshamn,14.8675877,56.1768457
+Public Transport Stations,Sölvesborg,14.5835995,56.0498463
+Public Transport Stations,"Sassnitz, Busbahnhof",13.639915735,54.516645245
+Public Transport Stations,Westerland ZOB,8.310693383333333333333333333,54.90587268333333333333333333
+Public Transport Stations,Bahnhof Westerland,8.309816975,54.907378195
+Public Transport Stations,Körkarlens Gata,11.98757812222222222222222222,57.7577471
+Public Transport Stations,Mölndals bro,12.01830530344827586206896552,57.65553869655172413793103448
+Public Transport Stations,Värnhem,13.0231219375,55.605768625
+Public Transport Stations,Sjöbo busstation,13.69992939333333333333333333,55.63098581333333333333333333
+Public Transport Stations,Ystad station,13.8267395,55.4276570
+Public Transport Stations,Örkelljunga busstation,13.28124833333333333333333333,56.28320658333333333333333333
+Public Transport Stations,Markaryds järnvägsstation,13.59377268333333333333333333,56.4579101
+Public Transport Stations,Brösarps bussterminal,14.09702503333333333333333333,55.72798061666666666666666667
+Public Transport Stations,Svalöv Skolgatan,13.10694421666666666666666667,55.92230858333333333333333333
+Public Transport Stations,Teckomatorps station,13.0858405,55.87119128333333333333333333
+Public Transport Stations,Aalborg Busterminal,9.918415141666666666666666667,57.04164045833333333333333333
+Public Transport Stations,ZOB Schleswig,9.565688011111111111111111111,54.51521758888888888888888889
+Public Transport Stations,Centralplan,13.00036594,55.60854682
+Public Transport Stations,Jönköping Centralstation,14.162692724,57.784349516
+Public Transport Stations,Kolding Rutebilstation,9.48260956,55.4921493
+Public Transport Stations,Södra Sandby busstation,13.34672348571428571428571429,55.71723517142857142857142857
+Public Transport Stations,Color Line Terminal,9.968381838095238095238095238,57.59295381428571428571428571
+Public Transport Stations,Höör,13.54170163571428571428571429,55.93677124285714285714285714
+Public Transport Stations,Varde Station,8.484983638461538461538461538,55.61671643846153846153846154
+Public Transport Stations,Stena Line Frederikshavn,10.5438939875,57.4346029125
+Public Transport Stations,Värnamo Station,14.03636085555555555555555556,57.18543935555555555555555556
+Public Transport Stations,Langelandslinjen,10.83228191428571428571428571,54.93494148571428571428571429
+Public Transport Stations,Hyllie,12.97585547916666666666666667,55.56276670833333333333333333
+Public Transport Stations,Eksjö järnvägsstation,14.97536520476190476190476190,57.66402749523809523809523810
+Public Transport Stations,Eksjö resecentrum,14.97616159090909090909090909,57.66422103636363636363636364
+Public Transport Stations,Bankgatan,13.19590490833333333333333333,55.700675175
+Public Transport Stations,Holbæk St.,11.70765129444444444444444444,55.71617480555555555555555556
+Public Transport Stations,Fredericia Banegård (Bybusser),9.740723311111111111111111111,55.56768138333333333333333333
+Public Transport Stations,Kappeln (Schlei) ZOB,9.926856428571428571428571429,54.65941185714285714285714286
+Public Transport Stations,Fjerritslev Busterminal,9.267075333333333333333333333,57.08649641666666666666666667
+Public Transport Stations,Middelfart Busstation,9.73457544,55.50214974
+Public Transport Stations,Esbjerg Rutebilstation,8.458788171428571428571428571,55.4694622
+Public Transport Stations,Slangerup Busstation,12.17480442,55.84413592
+Public Transport Stations,Aarhus Rutebilstation,10.20842686875,56.15187002291666666666666667
+Public Transport Stations,Varberg,12.24895680952380952380952381,57.10929273809523809523809524
+Public Transport Stations,Öresundsterminalen,13.0973787,55.60773518461538461538461538
+Public Transport Stations,Lomma busstation,13.06908812857142857142857143,55.67384257142857142857142857
+Public Transport Stations,Brovst Busterminal,9.52135076,57.0964025
+Public Transport Stations,Ytterby station,11.91838475,57.86274566
+Public Transport Stations,Tarp,9.398565225925925925925925926,54.66473647777777777777777778
+Public Transport Stations,Fjord Line Terminal,9.973996581818181818181818182,57.59632436363636363636363636
+Public Transport Stations,Station Triangeln,13.00087874,55.59343234
+Public Transport Stations,Partille centrum,12.10524937894736842105263158,57.73833983684210526315789474
+Public Transport Stations,Eslövs Busstation,13.30406002,55.83646922
+Public Transport Stations,Eslövs stationshus,13.30480138181818181818181818,55.8378718
+Public Transport Stations,Nordborg Busstation,9.7427414,55.0568452
+Public Transport Stations,Resecentrum,15.0826680,57.42580094
+Public Transport Stations,Vejle Trafikcenter,9.536025606666666666666666667,55.70577139333333333333333333
+Public Transport Stations,Hörby busstation,13.6709751,55.855502375
+Public Transport Stations,Rønne,14.69066891282051282051282051,55.09937355897435897435897436
+Public Transport Stations,Kokkedal Station,12.502245825,55.902647625
+Public Transport Stations,Kerteminde Rutebilstation,10.65998427272727272727272727,55.4505220
+Public Transport Stations,Nøragersmindevej,12.58163447,55.5914446
+Public Transport Stations,AAU Busterminal,9.991148529729729729729729730,57.01601872432432432432432432
+Public Transport Stations,Glücksburg ZOB,9.55046668,54.83361246
+Public Transport Stations,Vejen Rutebilstation,9.134965675,55.4763455
+Public Transport Stations,Hässleholm C,13.76368240344827586206896552,56.15805044482758620689655172
+Public Transport Stations,Guderup Busstation,9.86548484,54.9905914
+Public Transport Stations,Forserum,14.47434416,57.69804962
+Public Transport Stations,Ljungby Terminal,13.93680003461538461538461538,56.83213267307692307692307692
+Public Transport Stations,Frederikshavn St.,10.54082527368421052631578947,57.44108914210526315789473684
+Public Transport Stations,Åkareplatsen,11.97627584615384615384615385,57.70855526923076923076923077
+Public Transport Stations,Aabenraa Busstation,9.422267457142857142857142857,55.04507315714285714285714286
+Public Transport Stations,Nyborg Station,10.80319011666666666666666667,55.3130077
+Public Transport Stations,"Niebüll, ZOB",8.82545736,54.78809554
+Public Transport Stations,Oskarström,12.97178056666666666666666667,56.80641056666666666666666667
+Public Transport Stations,Esbjerg Busterminal,8.45898245,55.46984588888888888888888889
+Public Transport Stations,Kungälv resecentrum,11.96809796666666666666666667,57.87186855833333333333333333
+Public Transport Stations,Gråbo busstation,12.29818039230769230769230769,57.83684479230769230769230769
+Public Transport Stations,FanøFærgen,8.440902539130434782608695652,55.46151704347826086956521739
+Public Transport Stations,"Ebeltoft, Busterminal",10.67689106,56.17997788
+Public Transport Stations,Lönsboda Busstation,14.32069802,56.39699656
+Public Transport Stations,Hadsund Busterminal,10.11864235,56.71738608333333333333333333
+Public Transport Stations,Københavns Busterminal,12.56131276129032258064516129,55.66477959677419354838709677
+Public Transport Stations,Molslinjen Aarhus,10.252057564,56.151019252
+Public Transport Stations,Busterminal List Hafen,8.43742588,55.01787032
+Public Transport Stations,Landvetter resecentrum,12.21276953095238095238095238,57.68608811904761904761904762
+Public Transport Stations,Rønne Havn,14.690046875,55.099843675
+Public Transport Stations,Nils Ericson Terminalen,11.97175076153846153846153846,57.70992088846153846153846154
+Public Transport Stations,Gällstad,13.432962575,57.66748056666666666666666667
+Public Transport Stations,Kärna bussterminal,11.79247886849315068493150685,57.84394510273972602739726027
+Public Transport Stations,Svenljunga bussterminal,13.10884818888888888888888889,57.49536262222222222222222222
+Public Transport Stations,Hammel - Rutebilstation,9.862317954545454545454545455,56.25630968181818181818181818
+Public Transport Stations,Heden,11.97509209444444444444444444,57.70257400666666666666666665
+Public Transport Stations,Knutpunkten,12.69364382366050260787102892,56.04378377996680891417733523
