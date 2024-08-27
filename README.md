@@ -1,5 +1,5 @@
 # Group-24-Exam
-This is the exam repository for Group-24.
+This is the exam repository for Group-24, August 2024.
 
 **Memebers:**
 - Sebastian Kegel Dalsgaard
